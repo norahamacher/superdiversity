@@ -21,3 +21,17 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/src/data/Melbourne/Melbourne2011.json
+/src/data/Melbourne/Melbourne2016.json
+/src/data/Melbourne/Melbourne2006.json
+/src/data/Auckland/Auckland.json
+/src/data/Sydney/Sydney2006.json
+/src/data/Sydney/Sydney2011.json
+/src/data/Sydney/Sydney2016.json
+/src/data/Sydney/Sydney2001.json
+/src/data/Vancouver/Vanc2016_all.json
+/src/data/Vancouver/Vancouver2016.json
+/src/data/Vancouver/Vanc2006.json
+/src/data/Vancouver/Vanc2016.json
+/src/data/geolocation.json
+/src/data/vancouver_centers.json
