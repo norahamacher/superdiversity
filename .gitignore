@@ -35,3 +35,6 @@ yarn-error.log*
 /src/data/Vancouver/Vanc2016.json
 /src/data/geolocation.json
 /src/data/vancouver_centers.json
+/src/MapFunctionsMelbourne.js
+/src/MapFunctionsSydney.js
+/src/MapFunctionsAuckland.js
