@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/superdiversity/static/css/main.a7aff635.chunk.css",
-    "main.js": "/superdiversity/static/js/main.0546b2a9.chunk.js",
-    "main.js.map": "/superdiversity/static/js/main.0546b2a9.chunk.js.map",
+    "main.css": "/superdiversity/static/css/main.c250b6b1.chunk.css",
+    "main.js": "/superdiversity/static/js/main.a4c9cd90.chunk.js",
+    "main.js.map": "/superdiversity/static/js/main.a4c9cd90.chunk.js.map",
     "runtime-main.js": "/superdiversity/static/js/runtime-main.1b71433b.js",
     "runtime-main.js.map": "/superdiversity/static/js/runtime-main.1b71433b.js.map",
     "static/css/2.b4a16772.chunk.css": "/superdiversity/static/css/2.b4a16772.chunk.css",
-    "static/js/2.5287c764.chunk.js": "/superdiversity/static/js/2.5287c764.chunk.js",
-    "static/js/2.5287c764.chunk.js.map": "/superdiversity/static/js/2.5287c764.chunk.js.map",
+    "static/js/2.a5fe4b5a.chunk.js": "/superdiversity/static/js/2.a5fe4b5a.chunk.js",
+    "static/js/2.a5fe4b5a.chunk.js.map": "/superdiversity/static/js/2.a5fe4b5a.chunk.js.map",
     "index.html": "/superdiversity/index.html",
-    "precache-manifest.bb734f5f654b15a72a309fa731ad5374.js": "/superdiversity/precache-manifest.bb734f5f654b15a72a309fa731ad5374.js",
+    "precache-manifest.8bed99662f017de038a021d1651f1865.js": "/superdiversity/precache-manifest.8bed99662f017de038a021d1651f1865.js",
     "service-worker.js": "/superdiversity/service-worker.js",
     "static/css/2.b4a16772.chunk.css.map": "/superdiversity/static/css/2.b4a16772.chunk.css.map",
-    "static/css/main.a7aff635.chunk.css.map": "/superdiversity/static/css/main.a7aff635.chunk.css.map",
-    "static/js/2.5287c764.chunk.js.LICENSE.txt": "/superdiversity/static/js/2.5287c764.chunk.js.LICENSE.txt",
+    "static/css/main.c250b6b1.chunk.css.map": "/superdiversity/static/css/main.c250b6b1.chunk.css.map",
+    "static/js/2.a5fe4b5a.chunk.js.LICENSE.txt": "/superdiversity/static/js/2.a5fe4b5a.chunk.js.LICENSE.txt",
     "static/media/bivariate_scheme1.png": "/superdiversity/static/media/bivariate_scheme1.a9095b3d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1b71433b.js",
     "static/css/2.b4a16772.chunk.css",
-    "static/js/2.5287c764.chunk.js",
-    "static/css/main.a7aff635.chunk.css",
-    "static/js/main.0546b2a9.chunk.js"
+    "static/js/2.a5fe4b5a.chunk.js",
+    "static/css/main.c250b6b1.chunk.css",
+    "static/js/main.a4c9cd90.chunk.js"
   ]
 }
