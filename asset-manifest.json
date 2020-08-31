@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/superdiversity/static/css/main.a7aff635.chunk.css",
+    "main.js": "/superdiversity/static/js/main.0fc721e7.chunk.js",
+    "main.js.map": "/superdiversity/static/js/main.0fc721e7.chunk.js.map",
+    "runtime-main.js": "/superdiversity/static/js/runtime-main.1b71433b.js",
+    "runtime-main.js.map": "/superdiversity/static/js/runtime-main.1b71433b.js.map",
+    "static/css/2.b4a16772.chunk.css": "/superdiversity/static/css/2.b4a16772.chunk.css",
+    "static/js/2.5287c764.chunk.js": "/superdiversity/static/js/2.5287c764.chunk.js",
+    "static/js/2.5287c764.chunk.js.map": "/superdiversity/static/js/2.5287c764.chunk.js.map",
+    "index.html": "/superdiversity/index.html",
+    "precache-manifest.1fdef799f17f1fd7e6f673f5ec427005.js": "/superdiversity/precache-manifest.1fdef799f17f1fd7e6f673f5ec427005.js",
+    "service-worker.js": "/superdiversity/service-worker.js",
+    "static/css/2.b4a16772.chunk.css.map": "/superdiversity/static/css/2.b4a16772.chunk.css.map",
+    "static/css/main.a7aff635.chunk.css.map": "/superdiversity/static/css/main.a7aff635.chunk.css.map",
+    "static/js/2.5287c764.chunk.js.LICENSE.txt": "/superdiversity/static/js/2.5287c764.chunk.js.LICENSE.txt",
+    "static/media/bivariate_scheme1.png": "/superdiversity/static/media/bivariate_scheme1.a9095b3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b71433b.js",
+    "static/css/2.b4a16772.chunk.css",
+    "static/js/2.5287c764.chunk.js",
+    "static/css/main.a7aff635.chunk.css",
+    "static/js/main.0fc721e7.chunk.js"
+  ]
+}
